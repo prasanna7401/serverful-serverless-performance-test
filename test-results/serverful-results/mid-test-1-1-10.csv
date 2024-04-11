@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712358104093,1369,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76263,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1366,0,102
+1712358105467,1345,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76266,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1345,0,74
+1712358106813,1328,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76266,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1328,0,81
+1712358108142,1335,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76272,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1335,0,81
+1712358109477,1356,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76287,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1356,0,81
+1712358110834,1368,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76266,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1368,0,77
+1712358112203,1349,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76260,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1349,0,82
+1712358113552,1340,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76278,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1339,0,81
+1712358114893,1344,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76269,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1344,0,83
+1712358116238,1349,HTTP Request (Mid image),200,OK,Thread Group 1-1,text,true,,224,76272,1,1,http://ec2.cyberpumk.xyz:5000/extract_text,1349,0,81
