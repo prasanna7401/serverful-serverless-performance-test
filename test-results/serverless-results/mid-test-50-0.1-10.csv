@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712445378509,1106,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-42,text,false,,463,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1103,0,716
+1712445378509,1114,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-44,text,false,,463,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1114,0,716
+1712445378510,1113,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-48,text,false,,463,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1113,0,715
+1712445378510,1113,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-41,text,false,,463,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1113,0,715
+1712445378510,1129,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-3,text,false,,463,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1129,0,715
+1712445378510,1142,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-32,text,false,,463,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1142,0,716
+1712445378510,1231,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-37,text,false,,463,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1231,0,715
+1712445378510,1342,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-50,text,false,,463,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1342,0,715
+1712445378509,1407,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-35,text,false,,463,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1407,0,717
+1712445378510,1406,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-26,text,false,,463,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1406,0,716
+1712445378510,1431,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-24,text,false,,463,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1431,0,716
+1712445378510,1431,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-46,text,false,,463,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1431,0,715
+1712445378510,1431,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-31,text,false,,463,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1431,0,715
+1712445378509,1460,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-15,text,false,,463,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1460,0,716
+1712445378509,1460,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-49,text,false,,463,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1460,0,718
+1712445379625,831,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-41,text,false,,463,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,831,0,0
+1712445378509,2270,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-16,text,false,,463,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2269,0,716
+1712445378510,2323,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-18,text,false,,463,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2323,0,715
+1712445378510,2323,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-13,text,false,,463,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2323,0,715
+1712445378510,2323,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-5,text,false,,463,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2323,0,715
+1712445378509,2324,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-43,text,false,,463,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2324,0,717
+1712445378510,2323,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-29,text,false,,463,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2323,0,715
+1712445378509,2324,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-30,text,false,,463,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2324,0,716
+1712445378509,2324,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-17,text,false,,463,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2324,0,716
+1712445378509,2324,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-45,text,false,,463,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2324,0,717
+1712445378509,2324,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-20,text,false,,463,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2324,0,716
+1712445378510,2336,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-19,text,false,,463,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2336,0,716
+1712445378509,2337,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-27,text,false,,463,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2337,0,717
+1712445378510,2336,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-25,text,false,,463,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2336,0,716
+1712445378509,2337,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-40,text,false,,463,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2337,0,716
+1712445378509,2359,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-28,text,false,,463,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2359,0,717
+1712445380834,2017,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-13,text,false,,463,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2017,0,0
+1712445380834,2731,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-30,text,false,,463,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2731,0,0
+1712445379624,46496,HTTP Request (mid image),200,OK,Thread Group 1-44,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46496,0,0
+1712445378509,52747,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,52747,0,717
+1712445378509,53873,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,53873,0,716
+1712445380834,52573,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,52573,0,0
+1712445378510,55850,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,216,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,55850,0,716
+1712445378509,56972,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,56972,0,717
+1712445379625,55912,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,55912,0,0
+1712445434362,1350,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1350,0,0
+1712445379853,56525,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,56525,0,0
+1712445378509,58066,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,58066,0,717
+1712445435538,1556,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1555,0,0
+1712445436378,2253,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2253,0,0
+1712445378510,60436,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60436,0,715
+1712445378510,60668,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60668,0,715
+1712445437094,2085,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,2085,0,0
+1712445378509,61127,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-38,text,false,,292,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61127,0,716
+1712445378509,61127,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-1,text,false,,292,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61127,0,716
+1712445378509,61127,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-14,text,false,,292,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61127,0,716
+1712445378510,61126,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-47,text,false,,292,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61126,0,715
+1712445378510,61126,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-6,text,false,,292,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61126,0,715
+1712445378509,61141,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-2,text,false,,292,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61141,0,717
+1712445378510,61140,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-39,text,false,,292,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61140,0,716
+1712445378510,61140,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-33,text,false,,292,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61140,0,715
+1712445378509,61156,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-4,text,false,,292,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61156,0,717
+1712445378509,61156,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-12,text,false,,292,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61156,0,717
+1712445378510,61177,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-11,text,false,,292,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61177,0,715
+1712445378509,61178,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-8,text,false,,292,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61178,0,716
+1712445379617,60085,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-42,text,false,,292,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60085,0,0
+1712445378510,61191,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-9,text,false,,292,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,61191,0,715
+1712445379640,60079,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-3,text,false,,292,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60079,0,0
+1712445379654,60096,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-32,text,false,,292,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60096,0,0
+1712445379743,60080,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-37,text,false,,292,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60080,0,0
+1712445379918,60107,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-26,text,false,,292,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60107,0,0
+1712445379943,60105,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-24,text,false,,292,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60105,0,0
+1712445379971,60090,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-49,text,false,,292,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60090,0,0
+1712445379971,60090,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-15,text,false,,292,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60090,0,0
+1712445379918,60177,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-35,text,false,,292,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60177,0,0
+1712445379943,60152,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-31,text,false,,292,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60152,0,0
+1712445379943,60167,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-46,text,false,,292,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60167,0,0
+1712445380869,59277,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,59277,0,0
+1712445380834,59312,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,59312,0,0
+1712445440048,423,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-24,text,false,,463,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,423,0,84
+1712445380457,60093,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-41,text,false,,292,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60093,0,0
+1712445440062,796,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-15,text,false,,463,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,796,0,84
+1712445439667,1191,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-12,text,false,,463,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1191,0,83
+1712445380780,60102,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-16,text,false,,292,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60101,0,0
+1712445380834,60118,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-17,text,false,,292,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60118,0,0
+1712445380834,60118,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-5,text,false,,292,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60118,0,0
+1712445380834,60132,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-43,text,false,,292,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60132,0,0
+1712445380835,60131,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-20,text,false,,292,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60131,0,0
+1712445380848,60138,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-40,text,false,,292,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60138,0,0
+1712445380848,60138,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-25,text,false,,292,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60138,0,0
+1712445380848,60138,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-19,text,false,,292,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60138,0,0
+1712445380848,60138,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-27,text,false,,292,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60138,0,0
+1712445380834,60200,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-29,text,false,,292,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60200,0,0
+1712445382851,60166,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-13,text,false,,292,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60166,0,0
+1712445383566,60079,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-30,text,false,,292,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60079,0,0
+1712445438632,7063,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,7063,0,114
+1712445439179,13291,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13291,0,83
+1712445439638,18005,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18005,0,81
+1712445439703,21582,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21582,0,89
+1712445432383,29276,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,29276,0,0
+1712445439651,22638,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22638,0,83
+1712445440986,21720,HTTP Request (mid image),200,OK,Thread Group 1-27,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21720,0,84
+1712445439824,23131,HTTP Request (mid image),200,OK,Thread Group 1-37,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23131,0,76
+1712445439688,23791,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23791,0,84
+1712445439637,24446,HTTP Request (mid image),200,OK,Thread Group 1-1,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,24446,0,82
+1712445440550,23699,HTTP Request (mid image),200,OK,Thread Group 1-41,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23699,0,82
+1712445464083,681,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-1,text,false,,463,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,681,0,0
+1712445433408,32160,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,32160,0,0
+1712445439638,26014,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,26014,0,81
+1712445439719,25973,HTTP Request (mid image),200,OK,Thread Group 1-3,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,25973,0,87
+1712445440111,25645,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,25645,0,69
+1712445440472,26205,HTTP Request (mid image),200,OK,Thread Group 1-24,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,26205,0,0
+1712445440952,25957,HTTP Request (mid image),200,OK,Thread Group 1-17,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,25957,0,82
+1712445440859,26201,HTTP Request (mid image),200,OK,Thread Group 1-15,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,26201,0,0
+1712445440147,27119,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,27119,0,93
+1712445440967,27409,HTTP Request (mid image),200,OK,Thread Group 1-43,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,27409,0,82
+1712445440986,27688,HTTP Request (mid image),200,OK,Thread Group 1-19,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,27688,0,84
+1712445440952,28041,HTTP Request (mid image),200,OK,Thread Group 1-5,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,28041,0,82
+1712445443018,28479,HTTP Request (mid image),200,OK,Thread Group 1-13,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,28479,0,82
+1712445452473,22479,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22479,0,0
+1712445435482,40000,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,40000,0,0
+1712445457643,21948,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21948,0,0
+1712445463479,17107,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,17107,0,0
+1712445465757,15688,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,15688,0,0
+1712445464764,16791,HTTP Request (mid image),200,OK,Thread Group 1-1,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,16791,0,0
+1712445436576,45812,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,45812,0,0
+1712445461660,20848,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20848,0,82
+1712445462955,19688,HTTP Request (mid image),200,OK,Thread Group 1-37,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19688,0,0
+1712445467060,15633,HTTP Request (mid image),200,OK,Thread Group 1-15,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,15633,0,0
+1712445466909,15970,HTTP Request (mid image),200,OK,Thread Group 1-17,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,15970,0,0
+1712445465569,18339,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18339,0,83
+1712445468377,16086,HTTP Request (mid image),200,OK,Thread Group 1-43,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,16086,0,0
+1712445426120,60091,HTTP Request (mid image),504,Gateway Time-out,Thread Group 1-44,text,false,,292,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,60091,0,0
+1712445439750,46894,HTTP Request (mid image),200,OK,Thread Group 1-32,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46894,0,88
+1712445431257,56711,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,56711,0,0
+1712445439638,48330,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48330,0,81
+1712445474953,13547,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13547,0,0
+1712445471498,17019,HTTP Request (mid image),200,OK,Thread Group 1-13,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,17019,0,0
+1712445440096,48655,HTTP Request (mid image),200,OK,Thread Group 1-35,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48655,0,84
+1712445475483,13909,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13909,0,138
+1712445435713,54732,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,54732,0,0
+1712445439703,51440,HTTP Request (mid image),200,OK,Thread Group 1-42,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,51440,0,89
+1712445439637,51895,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,51895,0,82
+1712445440096,51705,HTTP Request (mid image),200,OK,Thread Group 1-31,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,51705,0,84
+1712445445696,46485,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46485,0,0
+1712445439652,53117,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,53117,0,82
+1712445439179,53871,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,53871,0,83
+1712445438947,54103,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,54103,0,81
+1712445439667,54102,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,54102,0,83
+1712445440026,53822,HTTP Request (mid image),200,OK,Thread Group 1-26,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,53822,0,84
+1712445481556,12540,HTTP Request (mid image),200,OK,Thread Group 1-1,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,12540,0,0
+1712445481445,12651,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,12651,0,0
+1712445440859,53921,HTTP Request (mid image),200,OK,Thread Group 1-12,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,53920,0,0
+1712445440147,54821,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,54821,0,93
+1712445482388,13408,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13408,0,92
+1712445439651,56501,HTTP Request (mid image),200,OK,Thread Group 1-39,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,56501,0,83
+1712445440882,55354,HTTP Request (mid image),200,OK,Thread Group 1-16,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,55354,0,70
+1712445440986,55250,HTTP Request (mid image),200,OK,Thread Group 1-40,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,55250,0,84
+1712445482643,13728,HTTP Request (mid image),200,OK,Thread Group 1-37,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13728,0,0
+1712445439688,57249,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,57249,0,84
+1712445440062,57095,HTTP Request (mid image),200,OK,Thread Group 1-49,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,57095,0,84
+1712445483909,13473,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13473,0,0
+1712445440986,57387,HTTP Request (mid image),200,OK,Thread Group 1-25,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,57387,0,84
+1712445443645,55933,HTTP Request (mid image),200,OK,Thread Group 1-30,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,55933,0,84
+1712445440967,58675,HTTP Request (mid image),200,OK,Thread Group 1-20,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,58675,0,82
+1712445441035,58701,HTTP Request (mid image),200,OK,Thread Group 1-29,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,58701,0,79
+1712445486645,15168,HTTP Request (mid image),200,OK,Thread Group 1-32,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,15168,0,0
+1712445487969,15148,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,15148,0,0
+1712445461285,43294,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,43294,0,0
+1712445489392,18647,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18647,0,0
+1712445488751,19327,HTTP Request (mid image),200,OK,Thread Group 1-35,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19327,0,0
+1712445464249,44725,HTTP Request (mid image),200,OK,Thread Group 1-41,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,44725,0,0
+1712445492770,17817,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,17817,0,0
+1712445462289,48747,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48747,0,0
+1712445491532,20279,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20279,0,0
+1712445465652,46412,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46412,0,0
+1712445492182,20184,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20184,0,0
+1712445462706,50324,HTTP Request (mid image),200,OK,Thread Group 1-27,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,50324,0,0
+1712445493770,19392,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19392,0,0
+1712445493848,19468,HTTP Request (mid image),200,OK,Thread Group 1-26,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19468,0,0
+1712445496237,19161,HTTP Request (mid image),200,OK,Thread Group 1-40,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19161,0,0
+1712445466677,49384,HTTP Request (mid image),200,OK,Thread Group 1-24,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49384,0,0
+1712445494780,22014,HTTP Request (mid image),200,OK,Thread Group 1-12,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22014,0,0
+1712445467266,50083,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,50083,0,0
+1712445494968,22446,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22446,0,0
+1712445465693,52947,HTTP Request (mid image),200,OK,Thread Group 1-3,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,52947,0,0
+1712445495797,24319,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,24319,0,0
+1712445496938,23248,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23247,0,0
+1712445468675,51511,HTTP Request (mid image),200,OK,Thread Group 1-19,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,51510,0,0
+1712445499578,22201,HTTP Request (mid image),200,OK,Thread Group 1-30,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22201,0,0
+1712445499643,22238,HTTP Request (mid image),200,OK,Thread Group 1-20,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22238,0,0
+1712445497382,24529,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,24529,0,0
+1712445501813,20471,HTTP Request (mid image),200,OK,Thread Group 1-32,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20471,0,90
+1712445468993,55654,HTTP Request (mid image),200,OK,Thread Group 1-5,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,55654,0,0
+1712445504581,20484,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20484,0,91
+1712445508079,17988,HTTP Request (mid image),200,OK,Thread Group 1-35,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,17988,0,91
+1712445482693,43558,HTTP Request (mid image),200,OK,Thread Group 1-15,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,43558,0,0
+1712445488517,38972,HTTP Request (mid image),200,OK,Thread Group 1-13,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,38972,0,0
+1712445482880,46166,HTTP Request (mid image),200,OK,Thread Group 1-17,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46166,0,0
+1712445491143,37994,HTTP Request (mid image),200,OK,Thread Group 1-42,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,37994,0,0
+1712445510589,19288,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19288,0,97
+1712445513163,17423,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,17423,0,83
+1712445482508,49409,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49409,0,0
+1712445479591,52476,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,52476,0,0
+1712445517349,15661,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,15661,0,83
+1712445513031,20705,HTTP Request (mid image),200,OK,Thread Group 1-27,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20705,0,83
+1712445484464,49677,HTTP Request (mid image),200,OK,Thread Group 1-43,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49677,0,0
+1712445511812,22350,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22350,0,79
+1712445486212,49169,HTTP Request (mid image),200,OK,Thread Group 1-44,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49169,0,82
+1712445480588,55735,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,55735,0,0
+1712445516062,20261,HTTP Request (mid image),200,OK,Thread Group 1-24,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20261,0,102
+1712445520186,16173,HTTP Request (mid image),200,OK,Thread Group 1-19,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,16173,0,81
+1712445517414,19377,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19377,0,91
+1712445487969,49889,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49889,0,82
+1712445490445,47724,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47724,0,90
+1712445491801,47068,HTTP Request (mid image),200,OK,Thread Group 1-31,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47068,0,0
+1712445520116,18789,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18789,0,0
+1712445493050,46649,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46649,0,0
+1712445493050,46817,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46817,0,0
+1712445496152,44521,HTTP Request (mid image),200,OK,Thread Group 1-39,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,44521,0,0
+1712445526067,15168,HTTP Request (mid image),200,OK,Thread Group 1-35,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,15168,0,0
+1712445496237,45409,HTTP Request (mid image),200,OK,Thread Group 1-16,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,45408,0,0
+1712445488500,53146,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,53145,0,0
+1712445494097,47754,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47754,0,0
+1712445540675,1176,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-39,text,false,,463,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,1176,0,113
+1712445521881,20219,HTTP Request (mid image),200,OK,Thread Group 1-20,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20219,0,88
+1712445524647,18851,HTTP Request (mid image),200,OK,Thread Group 1-5,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18851,0,91
+1712445496371,47609,HTTP Request (mid image),200,OK,Thread Group 1-37,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47609,0,0
+1712445494097,51158,HTTP Request (mid image),200,OK,Thread Group 1-1,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,51158,0,0
+1712445497157,48382,HTTP Request (mid image),200,OK,Thread Group 1-49,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48382,0,0
+1712445498373,47271,HTTP Request (mid image),200,OK,Thread Group 1-25,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47271,0,0
+1712445499736,46403,HTTP Request (mid image),200,OK,Thread Group 1-29,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46403,0,0
+1712445534163,13719,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13719,0,0
+1712445529137,19057,HTTP Request (mid image),200,OK,Thread Group 1-42,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19057,0,86
+1712445529046,20223,HTTP Request (mid image),200,OK,Thread Group 1-17,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20223,0,90
+1712445530587,18990,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18990,0,0
+1712445503117,46610,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46610,0,83
+1712445532067,20331,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20331,0,83
+1712445534140,20220,HTTP Request (mid image),200,OK,Thread Group 1-43,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20220,0,70
+1712445538905,17450,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,17450,0,0
+1712445508040,49002,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49002,0,0
+1712445513316,43852,HTTP Request (mid image),200,OK,Thread Group 1-26,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,43852,0,83
+1712445538170,19309,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19309,0,0
+1712445512064,45565,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,45565,0,78
+1712445536791,20985,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20985,0,0
+1712445508974,49174,HTTP Request (mid image),200,OK,Thread Group 1-41,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49174,0,85
+1712445536359,21815,HTTP Request (mid image),200,OK,Thread Group 1-19,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21815,0,0
+1712445541646,18923,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18923,0,84
+1712445539868,21855,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21855,0,78
+1712445511037,51908,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,51908,0,81
+1712445515398,48264,HTTP Request (mid image),200,OK,Thread Group 1-40,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48264,0,94
+1712445541852,21834,HTTP Request (mid image),200,OK,Thread Group 1-39,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21834,0,0
+1712445543498,20867,HTTP Request (mid image),200,OK,Thread Group 1-5,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20867,0,0
+1712445512367,52109,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,52109,0,83
+1712445543980,21505,HTTP Request (mid image),200,OK,Thread Group 1-37,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21505,0,83
+1712445525065,41056,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,41056,0,0
+1712445526252,40687,HTTP Request (mid image),200,OK,Thread Group 1-15,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,40687,0,90
+1712445545644,21459,HTTP Request (mid image),200,OK,Thread Group 1-25,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21459,0,89
+1712445516795,50956,HTTP Request (mid image),200,OK,Thread Group 1-12,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,50956,0,81
+1712445547882,19913,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19913,0,0
+1712445545539,22936,HTTP Request (mid image),200,OK,Thread Group 1-49,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22936,0,87
+1712445549727,20324,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20324,0,0
+1712445520186,50955,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,50955,0,81
+1712445549578,21705,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21705,0,0
+1712445518641,54907,HTTP Request (mid image),200,OK,Thread Group 1-3,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,54906,0,89
+1712445521911,52147,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,52147,0,0
+1712445535380,39164,HTTP Request (mid image),200,OK,Thread Group 1-44,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,39164,0,0
+1712445557777,16895,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,16895,0,0
+1712445522285,54396,HTTP Request (mid image),200,OK,Thread Group 1-32,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,54395,0,0
+1712445564476,13394,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13394,0,0
+1712445557168,21241,HTTP Request (mid image),200,OK,Thread Group 1-26,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21241,0,0
+1712445521780,56670,HTTP Request (mid image),200,OK,Thread Group 1-30,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,56670,0,82
+1712445527489,51665,HTTP Request (mid image),200,OK,Thread Group 1-13,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,51665,0,110
+1712445556355,23103,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23103,0,87
+1712445558148,21352,HTTP Request (mid image),200,OK,Thread Group 1-41,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21352,0,0
+1712445529878,49768,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49768,0,0
+1712445541852,38313,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,38313,0,87
+1712445560570,20091,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20091,0,0
+1712445565485,15483,HTTP Request (mid image),200,OK,Thread Group 1-37,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,15483,0,0
+1712445562945,18442,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18442,0,0
+1712445533010,48623,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48623,0,0
+1712445531918,50586,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,50586,0,82
+1712445536324,48038,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48038,0,92
+1712445561723,22893,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22893,0,0
+1712445541236,43380,HTTP Request (mid image),200,OK,Thread Group 1-35,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,43380,0,0
+1712445539700,46256,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46256,0,82
+1712445533736,52945,HTTP Request (mid image),200,OK,Thread Group 1-27,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,52945,0,0
+1712445541646,45085,HTTP Request (mid image),200,OK,Thread Group 1-16,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,45085,0,84
+1712445536324,50407,HTTP Request (mid image),200,OK,Thread Group 1-24,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,50407,0,0
+1712445545255,41602,HTTP Request (mid image),200,OK,Thread Group 1-1,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,41602,0,83
+1712445537857,49486,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49486,0,0
+1712445538870,49675,HTTP Request (mid image),200,OK,Thread Group 1-31,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49675,0,124
+1712445567752,21921,HTTP Request (mid image),200,OK,Thread Group 1-12,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21921,0,0
+1712445567795,21878,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21878,0,0
+1712445542101,47572,HTTP Request (mid image),200,OK,Thread Group 1-20,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47572,0,0
+1712445570052,19621,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19621,0,84
+1712445549269,42405,HTTP Request (mid image),200,OK,Thread Group 1-17,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,42405,0,0
+1712445571284,20473,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20473,0,0
+1712445568476,23603,HTTP Request (mid image),200,OK,Thread Group 1-49,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23603,0,0
+1712445546139,47627,HTTP Request (mid image),200,OK,Thread Group 1-29,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47627,0,81
+1712445580662,13119,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,13119,0,0
+1712445576681,20137,HTTP Request (mid image),200,OK,Thread Group 1-32,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20137,0,90
+1712445578450,20028,HTTP Request (mid image),200,OK,Thread Group 1-30,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20028,0,0
+1712445557479,41994,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,41994,0,82
+1712445579458,20600,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20600,0,0
+1712445557041,43292,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,43292,0,89
+1712445548194,52358,HTTP Request (mid image),200,OK,Thread Group 1-42,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,52358,0,0
+1712445554360,46209,HTTP Request (mid image),200,OK,Thread Group 1-43,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46209,0,0
+1712445581634,19232,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19232,0,102
+1712445580165,20920,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20920,0,0
+1712445577870,23602,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23602,0,73
+1712445552398,49134,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49134,0,0
+1712445579154,24651,HTTP Request (mid image),200,OK,Thread Group 1-13,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,24651,0,0
+1712445558175,48384,HTTP Request (mid image),200,OK,Thread Group 1-19,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48384,0,0
+1712445586732,20458,HTTP Request (mid image),200,OK,Thread Group 1-16,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20458,0,0
+1712445584616,22651,HTTP Request (mid image),200,OK,Thread Group 1-35,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22651,0,89
+1712445584362,23395,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23395,0,0
+1712445557630,50829,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,50829,0,0
+1712445587343,21856,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21856,0,83
+1712445589673,20377,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20377,0,89
+1712445563662,46901,HTTP Request (mid image),200,OK,Thread Group 1-40,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46901,0,0
+1712445564366,46912,HTTP Request (mid image),200,OK,Thread Group 1-5,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46912,0,0
+1712445563687,48494,HTTP Request (mid image),200,OK,Thread Group 1-39,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48494,0,0
+1712445567103,45634,HTTP Request (mid image),200,OK,Thread Group 1-25,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,45634,0,0
+1712445586732,26353,HTTP Request (mid image),200,OK,Thread Group 1-24,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,26353,0,84
+1712445589673,23756,HTTP Request (mid image),200,OK,Thread Group 1-12,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23756,0,89
+1712445566122,47417,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47417,0,83
+1712445588546,25050,HTTP Request (mid image),200,OK,Thread Group 1-31,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,25050,0,0
+1712445574059,40391,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,40391,0,83
+1712445566939,48236,HTTP Request (mid image),200,OK,Thread Group 1-15,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48236,0,0
+1712445592080,23704,HTTP Request (mid image),200,OK,Thread Group 1-49,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23704,0,0
+1712445593767,23618,HTTP Request (mid image),200,OK,Thread Group 1-29,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23618,0,0
+1712445574544,45105,HTTP Request (mid image),200,OK,Thread Group 1-44,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,45105,0,82
+1712445574672,46086,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46086,0,0
+1712445579646,41514,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,41514,0,82
+1712445600552,20719,HTTP Request (mid image),200,OK,Thread Group 1-42,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20719,0,166
+1712445579500,42633,HTTP Request (mid image),200,OK,Thread Group 1-41,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,42633,0,89
+1712445598479,23982,HTTP Request (mid image),200,OK,Thread Group 1-30,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23982,0,83
+1712445580968,41585,HTTP Request (mid image),200,OK,Thread Group 1-37,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,41585,0,0
+1712445586681,38013,HTTP Request (mid image),200,OK,Thread Group 1-27,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,38013,0,87
+1712445600569,24319,HTTP Request (mid image),200,OK,Thread Group 1-43,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,24319,0,149
+1712445601085,23881,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,23881,0,0
+1712445571142,53824,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,53824,0,0
+1712445607190,18088,HTTP Request (mid image),200,OK,Thread Group 1-16,text,true,,229,76279,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,18088,0,77
+1712445573548,51799,HTTP Request (mid image),200,OK,Thread Group 1-3,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,51799,0,0
+1712445600059,26069,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,26069,0,0
+1712445601532,24948,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,24948,0,82
+1712445578410,48710,HTTP Request (mid image),200,OK,Thread Group 1-26,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,48710,0,80
+1712445611279,16223,HTTP Request (mid image),200,OK,Thread Group 1-5,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,16223,0,86
+1712445581388,46991,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46991,0,82
+1712445584616,45504,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,45504,0,0
+1712445582504,47855,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47855,0,0
+1712445586857,43502,HTTP Request (mid image),200,OK,Thread Group 1-1,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,43502,0,0
+1712445589673,40768,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,40768,0,0
+1712445613085,17714,HTTP Request (mid image),200,OK,Thread Group 1-24,text,true,,229,76264,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,17714,0,0
+1712445610050,20756,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76288,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,20756,0,0
+1712445608459,22517,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22517,0,83
+1712445585957,45392,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,45392,0,0
+1712445589673,43711,HTTP Request (mid image),200,OK,Thread Group 1-20,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,43711,0,89
+1712445607267,26538,HTTP Request (mid image),200,OK,Thread Group 1-35,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,26538,0,0
+1712445591674,44693,HTTP Request (mid image),200,OK,Thread Group 1-17,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,44693,0,83
+1712445614451,22633,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22633,0,0
+1712445615784,22110,HTTP Request (mid image),200,OK,Thread Group 1-49,text,true,,229,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22110,0,82
+1712445596819,41137,HTTP Request (mid image),200,OK,Thread Group 1-32,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,41137,0,0
+1712445591758,47416,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76261,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,47416,0,113
+1712445613429,25856,HTTP Request (mid image),200,OK,Thread Group 1-12,text,true,,229,76276,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,25856,0,0
+1712445593781,46183,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,46183,0,0
+1712445619650,21429,HTTP Request (mid image),200,OK,Thread Group 1-44,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21429,0,0
+1712445599474,42386,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,42386,0,0
+1712445607757,34186,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76267,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,34186,0,89
+1712445626480,19410,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76270,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,19410,0,0
+1712445621272,25037,HTTP Request (mid image),200,OK,Thread Group 1-42,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,25037,0,0
+1712445624967,21693,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76282,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,21693,0,81
+1712445624694,22883,HTTP Request (mid image),200,OK,Thread Group 1-27,text,true,,229,76273,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,22883,0,0
+1712445622555,25126,HTTP Request (mid image),200,OK,Thread Group 1-37,text,true,,229,76285,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,25126,0,74
+1712445617385,30554,HTTP Request (mid image),200,OK,Thread Group 1-29,text,true,,229,76276,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,30554,0,89
+1712445603805,44645,HTTP Request (mid image),200,OK,Thread Group 1-13,text,true,,229,76261,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,44645,0,81
+1712445622134,26862,HTTP Request (mid image),200,OK,Thread Group 1-41,text,true,,229,76282,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,26862,0,0
+1712445620759,28923,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76261,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,28923,0,81
+1712445631349,18401,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76267,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,18401,0,81
+1712445627503,22790,HTTP Request (mid image),200,OK,Thread Group 1-5,text,true,,229,76267,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,22790,0,0
+1712445600866,49510,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76276,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,49510,0,0
+1712445600333,50329,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76288,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,50329,0,0
+1712445625348,25643,HTTP Request (mid image),200,OK,Thread Group 1-3,text,true,,229,76276,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,25643,0,91
+1712445606560,44482,HTTP Request (mid image),200,OK,Thread Group 1-19,text,true,,229,76285,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,44482,0,89
+1712445601473,50165,HTTP Request (mid image),200,OK,Thread Group 1-50,text,true,,229,76288,49,49,http://fargate.cyberpumk.xyz:5000/extract_text,50165,0,0
+1712445610563,43215,HTTP Request (mid image),200,OK,Thread Group 1-40,text,true,,229,76264,48,48,http://fargate.cyberpumk.xyz:5000/extract_text,43215,0,83
+1712445612181,42160,HTTP Request (mid image),200,OK,Thread Group 1-39,text,true,,229,76285,48,48,http://fargate.cyberpumk.xyz:5000/extract_text,42160,0,87
+1712445633805,21199,HTTP Request (mid image),200,OK,Thread Group 1-35,text,true,,229,76288,48,48,http://fargate.cyberpumk.xyz:5000/extract_text,21199,0,0
+1712445630442,24869,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76276,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,24869,0,80
+1712445613539,42337,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76276,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,42337,0,0
+1712445609199,47968,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76270,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,47968,0,0
+1712445630123,27357,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76273,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,27357,0,84
+1712445612738,46157,HTTP Request (mid image),200,OK,Thread Group 1-25,text,true,,229,76282,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,46157,0,81
+1712445637894,21309,HTTP Request (mid image),200,OK,Thread Group 1-49,text,true,,229,76285,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,21309,0,0
+1712445630359,28989,HTTP Request (mid image),200,OK,Thread Group 1-1,text,true,,229,76291,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,28989,0,82
+1712445637956,21432,HTTP Request (mid image),200,OK,Thread Group 1-32,text,true,,229,76267,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,21432,0,101
+1712445630806,29481,HTTP Request (mid image),200,OK,Thread Group 1-38,text,true,,229,76267,47,47,http://fargate.cyberpumk.xyz:5000/extract_text,29481,0,0
+1712445622463,38690,HTTP Request (mid image),200,OK,Thread Group 1-30,text,true,,229,76282,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,38690,0,0
+1712445615175,46956,HTTP Request (mid image),200,OK,Thread Group 1-15,text,true,,229,76261,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,46956,0,83
+1712445613597,48848,HTTP Request (mid image),200,OK,Thread Group 1-31,text,true,,229,76270,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,48848,0,81
+1712445639285,24523,HTTP Request (mid image),200,OK,Thread Group 1-12,text,true,,229,76279,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,24523,0,0
+1712445621161,43004,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76285,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,43004,0,0
+1712445625279,41168,HTTP Request (mid image),200,OK,Thread Group 1-16,text,true,,229,76288,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,41168,0,0
+1712445641943,26518,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76264,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,26518,0,0
+1712445646308,22418,HTTP Request (mid image),200,OK,Thread Group 1-42,text,true,,229,76282,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,22418,0,0
+1712445624967,45112,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76273,46,46,http://fargate.cyberpumk.xyz:5000/extract_text,45112,0,81
+1712445630976,39259,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76285,45,45,http://fargate.cyberpumk.xyz:5000/extract_text,39259,0,0
+1712445647578,23520,HTTP Request (mid image),200,OK,Thread Group 1-27,text,true,,229,76291,45,45,http://fargate.cyberpumk.xyz:5000/extract_text,23520,0,102
+1712445645891,26073,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76282,45,45,http://fargate.cyberpumk.xyz:5000/extract_text,26073,0,0
+1712445628380,43602,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76261,45,45,http://fargate.cyberpumk.xyz:5000/extract_text,43602,0,0
+1712445650293,21867,HTTP Request (mid image),200,OK,Thread Group 1-5,text,true,,229,76279,45,45,http://fargate.cyberpumk.xyz:5000/extract_text,21867,0,0
+1712445648451,23845,HTTP Request (mid image),200,OK,Thread Group 1-13,text,true,,229,76276,44,44,http://fargate.cyberpumk.xyz:5000/extract_text,23845,0,0
+1712445626129,46299,HTTP Request (mid image),200,OK,Thread Group 1-34,text,true,,229,76267,43,43,http://fargate.cyberpumk.xyz:5000/extract_text,46299,0,82
+1712445624889,47757,HTTP Request (mid image),200,OK,Thread Group 1-43,text,true,,229,76261,42,42,http://fargate.cyberpumk.xyz:5000/extract_text,47757,0,0
+1712445650991,22301,HTTP Request (mid image),200,OK,Thread Group 1-3,text,true,,229,76261,42,42,http://fargate.cyberpumk.xyz:5000/extract_text,22301,0,0
+1712445651042,22459,HTTP Request (mid image),200,OK,Thread Group 1-19,text,true,,229,76285,42,42,http://fargate.cyberpumk.xyz:5000/extract_text,22459,0,0
+1712445630359,43407,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76279,42,42,http://fargate.cyberpumk.xyz:5000/extract_text,43407,0,83
+1712445627120,47644,HTTP Request (mid image),200,OK,Thread Group 1-26,text,true,,229,76282,42,42,http://fargate.cyberpumk.xyz:5000/extract_text,47644,0,0
+1712445649681,25598,HTTP Request (mid image),200,OK,Thread Group 1-28,text,true,,229,76291,42,42,http://fargate.cyberpumk.xyz:5000/extract_text,25598,0,0
+1712445633384,42703,HTTP Request (mid image),200,OK,Thread Group 1-20,text,true,,229,76267,41,41,http://fargate.cyberpumk.xyz:5000/extract_text,42703,0,0
+1712445630800,45349,HTTP Request (mid image),200,OK,Thread Group 1-24,text,true,,229,76288,41,41,http://fargate.cyberpumk.xyz:5000/extract_text,45349,0,0
+1712445654341,22187,HTTP Request (mid image),200,OK,Thread Group 1-39,text,true,,229,76261,40,40,http://fargate.cyberpumk.xyz:5000/extract_text,22187,0,0
+1712445655876,20889,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76270,40,40,http://fargate.cyberpumk.xyz:5000/extract_text,20889,0,81
+1712445659388,19168,HTTP Request (mid image),200,OK,Thread Group 1-32,text,true,,229,76282,40,40,http://fargate.cyberpumk.xyz:5000/extract_text,19168,0,0
+1712445639964,38899,HTTP Request (mid image),200,OK,Thread Group 1-10,text,true,,229,76270,39,39,http://fargate.cyberpumk.xyz:5000/extract_text,38899,0,89
+1712445636368,42803,HTTP Request (mid image),200,OK,Thread Group 1-17,text,true,,229,76270,38,38,http://fargate.cyberpumk.xyz:5000/extract_text,42803,0,0
+1712445641079,38499,HTTP Request (mid image),200,OK,Thread Group 1-44,text,true,,229,76282,38,38,http://fargate.cyberpumk.xyz:5000/extract_text,38499,0,81
+1712445659203,20463,HTTP Request (mid image),200,OK,Thread Group 1-49,text,true,,229,76282,38,38,http://fargate.cyberpumk.xyz:5000/extract_text,20463,0,0
+1712445658895,21710,HTTP Request (mid image),200,OK,Thread Group 1-25,text,true,,229,76261,37,37,http://fargate.cyberpumk.xyz:5000/extract_text,21710,0,0
+1712445637084,45355,HTTP Request (mid image),200,OK,Thread Group 1-18,text,true,,229,76276,37,37,http://fargate.cyberpumk.xyz:5000/extract_text,45355,0,89
+1712445646661,36517,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76276,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,36517,0,0
+1712445641860,41372,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76282,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,41372,0,83
+1712445647939,35602,HTTP Request (mid image),200,OK,Thread Group 1-29,text,true,,229,76282,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,35602,0,0
+1712445650376,33277,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76282,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,33277,0,82
+1712445664164,20843,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76273,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,20843,0,81
+1712445639174,45833,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76267,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,45833,0,0
+1712445666447,18700,HTTP Request (mid image),200,OK,Thread Group 1-16,text,true,,229,76273,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,18700,0,0
+1712445662446,22854,HTTP Request (mid image),200,OK,Thread Group 1-31,text,true,,229,76285,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,22854,0,0
+1712445670235,15636,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76288,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,15636,0,81
+1712445671964,15604,HTTP Request (mid image),200,OK,Thread Group 1-14,text,true,,229,76288,36,36,http://fargate.cyberpumk.xyz:5000/extract_text,15604,0,82
+1712445650663,37996,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76276,35,35,http://fargate.cyberpumk.xyz:5000/extract_text,37996,0,81
+1712445662132,26869,HTTP Request (mid image),200,OK,Thread Group 1-15,text,true,,229,76279,35,35,http://fargate.cyberpumk.xyz:5000/extract_text,26869,0,0
+1712445671982,17634,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76264,34,34,http://fargate.cyberpumk.xyz:5000/extract_text,17634,0,89
+1712445649750,40084,HTTP Request (mid image),200,OK,Thread Group 1-48,text,true,,229,76276,34,34,http://fargate.cyberpumk.xyz:5000/extract_text,40084,0,0
+1712445648995,41271,HTTP Request (mid image),200,OK,Thread Group 1-41,text,true,,229,76270,33,33,http://fargate.cyberpumk.xyz:5000/extract_text,41271,0,89
+1712445676087,14928,HTTP Request (mid image),200,OK,Thread Group 1-20,text,true,,229,76261,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,14928,0,81
+1712445673293,18382,HTTP Request (mid image),200,OK,Thread Group 1-3,text,true,,229,76264,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,18382,0,0
+1712445673766,18717,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76276,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,18717,0,0
+1712445676765,16991,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76279,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,16991,0,0
+1712445657167,37276,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76288,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,37276,0,82
+1712445653778,40665,HTTP Request (mid image),200,OK,Thread Group 1-40,text,true,,229,76279,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,40665,0,0
+1712445655311,39732,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76288,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,39732,0,0
+1712445657480,37678,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76267,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,37678,0,0
+1712445663808,31751,HTTP Request (mid image),200,OK,Thread Group 1-12,text,true,,229,76279,32,32,http://fargate.cyberpumk.xyz:5000/extract_text,31751,0,121
+1712445679578,16558,HTTP Request (mid image),200,OK,Thread Group 1-44,text,true,,229,76261,31,31,http://fargate.cyberpumk.xyz:5000/extract_text,16558,0,0
+1712445661152,36719,HTTP Request (mid image),200,OK,Thread Group 1-30,text,true,,229,76264,31,31,http://fargate.cyberpumk.xyz:5000/extract_text,36719,0,81
+1712445685007,13211,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76273,30,30,http://fargate.cyberpumk.xyz:5000/extract_text,13211,0,0
+1712445683541,15291,HTTP Request (mid image),200,OK,Thread Group 1-29,text,true,,229,76261,30,30,http://fargate.cyberpumk.xyz:5000/extract_text,15291,0,82
+1712445685148,13684,HTTP Request (mid image),200,OK,Thread Group 1-16,text,true,,229,76279,30,30,http://fargate.cyberpumk.xyz:5000/extract_text,13684,0,81
+1712445659348,39771,HTTP Request (mid image),200,OK,Thread Group 1-1,text,true,,229,76288,29,29,http://fargate.cyberpumk.xyz:5000/extract_text,39771,0,0
+1712445683178,16879,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76261,28,28,http://fargate.cyberpumk.xyz:5000/extract_text,16879,0,0
+1712445689617,11263,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76285,28,28,http://fargate.cyberpumk.xyz:5000/extract_text,11263,0,0
+1712445685872,15622,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76267,28,28,http://fargate.cyberpumk.xyz:5000/extract_text,15622,0,0
+1712445668461,34721,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76282,28,28,http://fargate.cyberpumk.xyz:5000/extract_text,34721,0,82
+1712445668726,34719,HTTP Request (mid image),200,OK,Thread Group 1-42,text,true,,229,76273,28,28,http://fargate.cyberpumk.xyz:5000/extract_text,34719,0,89
+1712445671098,33250,HTTP Request (mid image),200,OK,Thread Group 1-27,text,true,,229,76288,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,33250,0,0
+1712445692484,12188,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76267,26,26,http://fargate.cyberpumk.xyz:5000/extract_text,12188,0,82
+1712445672646,32400,HTTP Request (mid image),200,OK,Thread Group 1-43,text,true,,229,76270,26,26,http://fargate.cyberpumk.xyz:5000/extract_text,32400,0,83
+1712445673501,32839,HTTP Request (mid image),200,OK,Thread Group 1-19,text,true,,229,76282,25,25,http://fargate.cyberpumk.xyz:5000/extract_text,32839,0,82
+1712445676528,29995,HTTP Request (mid image),200,OK,Thread Group 1-39,text,true,,229,76267,24,24,http://fargate.cyberpumk.xyz:5000/extract_text,29995,0,82
+1712445695043,11721,HTTP Request (mid image),200,OK,Thread Group 1-6,text,true,,229,76291,24,24,http://fargate.cyberpumk.xyz:5000/extract_text,11721,0,82
+1712445700880,5884,HTTP Request (mid image),200,OK,Thread Group 1-2,text,true,,229,76282,24,24,http://fargate.cyberpumk.xyz:5000/extract_text,5884,0,0
+1712445694443,12611,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76270,22,22,http://fargate.cyberpumk.xyz:5000/extract_text,12611,0,0
+1712445695158,12536,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76279,22,22,http://fargate.cyberpumk.xyz:5000/extract_text,12536,0,81
+1712445680605,27963,HTTP Request (mid image),200,OK,Thread Group 1-25,text,true,,229,76291,22,22,http://fargate.cyberpumk.xyz:5000/extract_text,27963,0,80
+1712445674764,34398,HTTP Request (mid image),200,OK,Thread Group 1-26,text,true,,229,76273,22,22,http://fargate.cyberpumk.xyz:5000/extract_text,34398,0,82
+1712445698218,11000,HTTP Request (mid image),200,OK,Thread Group 1-33,text,true,,229,76279,22,22,http://fargate.cyberpumk.xyz:5000/extract_text,11000,0,0
+1712445679171,31744,HTTP Request (mid image),200,OK,Thread Group 1-17,text,true,,229,76264,21,21,http://fargate.cyberpumk.xyz:5000/extract_text,31744,0,81
+1712445703182,7733,HTTP Request (mid image),200,OK,Thread Group 1-8,text,true,,229,76270,21,21,http://fargate.cyberpumk.xyz:5000/extract_text,7733,0,0
+1712445704672,6397,HTTP Request (mid image),200,OK,Thread Group 1-22,text,true,,229,76261,19,19,http://fargate.cyberpumk.xyz:5000/extract_text,6397,0,0
+1712445683232,28612,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76285,18,18,http://fargate.cyberpumk.xyz:5000/extract_text,28612,0,0
+1712445707694,4762,HTTP Request (mid image),200,OK,Thread Group 1-21,text,true,,229,76273,18,18,http://fargate.cyberpumk.xyz:5000/extract_text,4762,0,0
+1712445708568,3934,HTTP Request (mid image),200,OK,Thread Group 1-25,text,true,,229,76270,17,17,http://fargate.cyberpumk.xyz:5000/extract_text,3934,0,0
+1712445683654,29191,HTTP Request (mid image),200,OK,Thread Group 1-45,text,true,,229,76288,16,16,http://fargate.cyberpumk.xyz:5000/extract_text,29191,0,0
+1712445711844,1806,HTTP Request (mid image),200,OK,Thread Group 1-7,text,true,,229,76288,15,15,http://fargate.cyberpumk.xyz:5000/extract_text,1806,0,81
+1712445685007,28965,HTTP Request (mid image),200,OK,Thread Group 1-4,text,true,,229,76264,14,14,http://fargate.cyberpumk.xyz:5000/extract_text,28965,0,88
+1712445685300,28742,HTTP Request (mid image),200,OK,Thread Group 1-31,text,true,,229,76273,13,13,http://fargate.cyberpumk.xyz:5000/extract_text,28742,0,82
+1712445688660,25573,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76291,13,13,http://fargate.cyberpumk.xyz:5000/extract_text,25573,0,0
+1712445691676,25180,HTTP Request (mid image),200,OK,Thread Group 1-3,text,true,,229,76291,13,13,http://fargate.cyberpumk.xyz:5000/extract_text,25180,0,87
+1712445694443,23078,HTTP Request (mid image),200,OK,Thread Group 1-40,text,true,,229,76291,12,12,http://fargate.cyberpumk.xyz:5000/extract_text,23078,0,99
+1712445693756,24839,HTTP Request (mid image),200,OK,Thread Group 1-9,text,true,,229,76282,12,12,http://fargate.cyberpumk.xyz:5000/extract_text,24839,0,0
+1712445691016,27631,HTTP Request (mid image),200,OK,Thread Group 1-20,text,true,,229,76288,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,27631,0,0
+1712445717521,1294,HTTP Request (mid image),200,OK,Thread Group 1-40,text,true,,229,76261,10,10,http://fargate.cyberpumk.xyz:5000/extract_text,1294,0,0
+1712445696136,24507,HTTP Request (mid image),200,OK,Thread Group 1-44,text,true,,229,76264,9,9,http://fargate.cyberpumk.xyz:5000/extract_text,24507,0,0
+1712445707054,14512,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76282,8,8,http://fargate.cyberpumk.xyz:5000/extract_text,14512,0,0
+1712445698832,23106,HTTP Request (mid image),200,OK,Thread Group 1-29,text,true,,229,76291,8,8,http://fargate.cyberpumk.xyz:5000/extract_text,23106,0,0
+1712445701494,21198,HTTP Request (mid image),200,OK,Thread Group 1-47,text,true,,229,76285,7,7,http://fargate.cyberpumk.xyz:5000/extract_text,21198,0,0
+1712445700057,22788,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76261,6,6,http://fargate.cyberpumk.xyz:5000/extract_text,22788,0,82
+1712445722846,1303,HTTP Request (mid image),200,OK,Thread Group 1-11,text,true,,229,76291,6,6,http://fargate.cyberpumk.xyz:5000/extract_text,1303,0,0
+1712445706523,17715,HTTP Request (mid image),200,OK,Thread Group 1-39,text,true,,229,76273,5,5,http://fargate.cyberpumk.xyz:5000/extract_text,17715,0,0
+1712445709162,15178,HTTP Request (mid image),200,OK,Thread Group 1-26,text,true,,229,76267,4,4,http://fargate.cyberpumk.xyz:5000/extract_text,15178,0,0
+1712445714042,10996,HTTP Request (mid image),200,OK,Thread Group 1-31,text,true,,229,76276,3,3,http://fargate.cyberpumk.xyz:5000/extract_text,10996,0,0
+1712445714232,11496,HTTP Request (mid image),200,OK,Thread Group 1-23,text,true,,229,76276,2,2,http://fargate.cyberpumk.xyz:5000/extract_text,11496,0,81
+1712445721566,4568,HTTP Request (mid image),200,OK,Thread Group 1-36,text,true,,229,76279,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,4568,0,82

@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712447822678,5555,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-68,text,false,,463,76291,100,100,http://fargate.cyberpumk.xyz:5000/extract_text,5553,0,1490
+1712447822678,6982,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-9,text,false,,463,76270,99,99,http://fargate.cyberpumk.xyz:5000/extract_text,6982,0,1501
+1712447822681,7046,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-91,text,false,,463,76282,98,98,http://fargate.cyberpumk.xyz:5000/extract_text,7046,0,1498
+1712447822678,7072,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-21,text,false,,463,76288,97,97,http://fargate.cyberpumk.xyz:5000/extract_text,7072,0,1552
+1712447822680,7087,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-57,text,false,,463,76282,96,96,http://fargate.cyberpumk.xyz:5000/extract_text,7087,0,1550
+1712447822678,7551,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-10,text,false,,463,76276,95,95,http://fargate.cyberpumk.xyz:5000/extract_text,7551,0,1552
+1712447822681,11633,HTTP Request (mid image),500,INTERNAL SERVER ERROR,Thread Group 1-33,text,false,,463,76279,94,94,http://fargate.cyberpumk.xyz:5000/extract_text,11632,0,1648
+1712447822681,39026,HTTP Request (mid image),200,OK,Thread Group 1-46,text,true,,229,76291,93,93,http://fargate.cyberpumk.xyz:5000/extract_text,39026,0,1482
+1712447822681,49457,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-53,text,false,,277,76276,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49457,0,1592
+1712447822678,49460,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-95,text,false,,277,76291,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49460,0,1595
+1712447822680,49458,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-40,text,false,,277,76291,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49458,0,1593
+1712447822680,49458,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-75,text,false,,277,76264,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49458,0,1592
+1712447822679,49460,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-16,text,false,,277,76276,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49460,0,1594
+1712447822681,49458,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-22,text,false,,277,76264,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49458,0,1498
+1712447822678,49461,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-74,text,false,,277,76291,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49461,0,1595
+1712447822679,49460,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-64,text,false,,277,76282,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49460,0,1500
+1712447822681,49458,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-87,text,false,,277,76288,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49458,0,1498
+1712447822678,49460,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-25,text,false,,277,76270,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49460,0,1595
+1712447822681,49458,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-72,text,false,,277,76285,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49458,0,1592
+1712447822678,49460,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-27,text,false,,277,76261,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49460,0,1594
+1712447822678,49460,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-45,text,false,,277,76276,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49460,0,1595
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-49,text,false,,277,76264,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1499
+1712447822678,49461,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-76,text,false,,277,76285,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49461,0,1595
+1712447822679,49460,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-5,text,false,,277,76282,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49460,0,1594
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-98,text,false,,277,76273,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1593
+1712447822678,49461,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-36,text,false,,277,76270,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49461,0,1595
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-56,text,false,,277,76267,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1593
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-18,text,false,,277,76270,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1499
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-1,text,false,,277,76264,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1593
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-96,text,false,,277,76276,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1593
+1712447822678,49461,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-80,text,false,,277,76282,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49461,0,1595
+1712447822679,49460,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-81,text,false,,277,76270,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49460,0,1594
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-31,text,false,,277,76264,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1499
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-94,text,false,,277,76261,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1499
+1712447822678,49461,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-65,text,false,,277,76276,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49461,0,1594
+1712447822680,49458,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-6,text,false,,277,76291,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49458,0,1593
+1712447822680,49458,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-86,text,false,,277,76288,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49458,0,1592
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-55,text,false,,277,76267,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1593
+1712447822680,49459,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-38,text,false,,277,76270,92,92,http://fargate.cyberpumk.xyz:5000/extract_text,49459,0,1593
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-44,text,false,,277,76264,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-28,text,false,,277,76285,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-20,text,false,,277,76279,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822681,49484,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-84,text,false,,277,76282,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49484,0,1487
+1712447822680,49485,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-85,text,false,,277,76261,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49485,0,1632
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-97,text,false,,277,76285,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-17,text,false,,277,76279,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1595
+1712447822680,49485,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-100,text,false,,277,76273,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49485,0,1632
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-61,text,false,,277,76267,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1651
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-41,text,false,,277,76267,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822679,49486,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-63,text,false,,277,76261,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49486,0,1489
+1712447822681,49484,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-12,text,false,,277,76261,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49484,0,1487
+1712447822681,49484,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-52,text,false,,277,76270,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49484,0,1487
+1712447822681,49484,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-47,text,false,,277,76270,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49484,0,1487
+1712447822681,49484,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-71,text,false,,277,76273,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49484,0,1487
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-19,text,false,,277,76288,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-3,text,false,,277,76270,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-77,text,false,,277,76273,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1634
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-8,text,false,,277,76279,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-14,text,false,,277,76264,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1638
+1712447822679,49486,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-78,text,false,,277,76264,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49486,0,1489
+1712447822681,49484,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-23,text,false,,277,76288,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49484,0,1487
+1712447822679,49486,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-83,text,false,,277,76279,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49486,0,1489
+1712447822680,49485,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-48,text,false,,277,76282,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49485,0,1488
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-4,text,false,,277,76291,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1485
+1712447822681,49484,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-69,text,false,,277,76279,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49484,0,1487
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-54,text,false,,277,76285,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1501
+1712447822681,49485,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-42,text,false,,277,76276,52,52,http://fargate.cyberpumk.xyz:5000/extract_text,49485,0,1592
+1712447822681,49484,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-35,text,false,,277,76285,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49484,0,1487
+1712447822680,49486,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-99,text,false,,277,76291,50,50,http://fargate.cyberpumk.xyz:5000/extract_text,49486,0,1632
+1712447822679,49486,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-37,text,false,,277,76291,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49486,0,1500
+1712447822679,49486,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-7,text,false,,277,76282,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49486,0,1500
+1712447822680,49485,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-73,text,false,,277,76276,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49485,0,1488
+1712447822678,49487,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-79,text,false,,277,76273,61,61,http://fargate.cyberpumk.xyz:5000/extract_text,49487,0,1490
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-90,text,false,,277,76273,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1552
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-34,text,false,,277,76276,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1595
+1712447822681,49493,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-15,text,false,,277,76264,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49493,0,1549
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-60,text,false,,277,76279,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1552
+1712447822680,49494,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-58,text,false,,277,76264,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49494,0,1593
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-43,text,false,,277,76276,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1552
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-2,text,false,,277,76282,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1552
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-11,text,false,,277,76285,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1552
+1712447822680,49494,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-88,text,false,,277,76291,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49494,0,1550
+1712447822680,49494,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-70,text,false,,277,76264,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49494,0,1550
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-59,text,false,,277,76282,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1552
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-32,text,false,,277,76270,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1552
+1712447822679,49495,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-82,text,false,,277,76279,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49495,0,1551
+1712447822678,49496,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-62,text,false,,277,76267,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49496,0,1552
+1712447822681,49493,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-30,text,false,,277,76270,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49493,0,1549
+1712447822680,49494,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-24,text,false,,277,76285,27,27,http://fargate.cyberpumk.xyz:5000/extract_text,49494,0,1550
+1712447822680,49509,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-39,text,false,,277,76279,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49509,0,1550
+1712447822678,49511,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-89,text,false,,277,76285,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49511,0,1501
+1712447822678,49511,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-26,text,false,,277,76282,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49511,0,1552
+1712447822680,49509,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-51,text,false,,277,76282,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49509,0,1550
+1712447822678,49511,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-13,text,false,,277,76276,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49511,0,1552
+1712447822681,49508,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-66,text,false,,277,76261,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49508,0,1549
+1712447822678,49511,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-67,text,false,,277,76291,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49511,0,1552
+1712447822678,49511,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-29,text,false,,277,76273,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49511,0,1552
+1712447822681,49508,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-92,text,false,,277,76261,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49508,0,1549
+1712447822679,49510,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-93,text,false,,277,76261,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49510,0,1551
+1712447822680,49509,HTTP Request (mid image),502,Bad Gateway,Thread Group 1-50,text,false,,277,76276,11,11,http://fargate.cyberpumk.xyz:5000/extract_text,49509,0,1550

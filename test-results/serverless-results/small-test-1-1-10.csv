@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712442101432,936,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12285,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,934,0,166
+1712442102369,752,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12306,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,752,0,0
+1712442103121,903,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12306,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,903,0,0
+1712442104025,922,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12303,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,922,0,0
+1712442104948,818,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12300,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,818,0,0
+1712442105766,921,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12291,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,921,0,0
+1712442106688,920,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12303,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,920,0,0
+1712442107609,819,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12303,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,819,0,0
+1712442108429,817,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12294,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,817,0,0
+1712442109247,1024,HTTP Request (light image),200,OK,Thread Group 1-1,text,true,,239,12297,1,1,http://fargate.cyberpumk.xyz:5000/extract_text,1024,0,0
